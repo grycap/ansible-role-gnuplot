@@ -1,0 +1,3 @@
+---
+- name: Yum install Octave in REL system
+  yum: pkg=gnuplot update_cache=yes
